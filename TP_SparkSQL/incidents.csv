@@ -1,0 +1,16 @@
+Id,titre,description,service,date
+1,Panne serveur,Serveur crashé,IT,2023-03-15
+2,Fuite d'eau,Canalisation percée,Maintenance,2022-06-20
+3,Erreur SAP,Transaction échouée,IT,2023-08-09
+4,Incendie mineur,Détecteur fumée activé,Sécurité,2021-01-04
+5,Retard pièces,Panne de fournisseur,Logistique,2022-04-11
+6,Crash base de données,BDD corrompue,IT,2023-05-18
+7,Clim HS,Température non conforme,Maintenance,2023-07-22
+8,Coupure réseau,Perte de connectivité,IT,2021-12-05
+9,Erreur stock,Stock négatif,Logistique,2023-11-30
+10,Courant coupé,Panne EDF,Sécurité,2022-09-13
+11,Panne serveur,Matériel HS,IT,2023-02-17
+12,Défaut produit,Retour client,Production,2023-06-10
+13,Erreur saisie,Fichier Excel mal rempli,Production,2022-11-02
+14,Bug interface,Erreur affichage,IT,2022-01-23
+15,Incident badgeuse,Accès refusé,RH,2021-05-07
