@@ -49,7 +49,6 @@ Affichage du nombre d’incidents par service (ex : IT, Maintenance…)
 Affichage des 2 années avec le plus grand nombre d’incidents (ex : 2023, 2022)
 ![Terminal output](images/2.png)
 
-## ✍️ Auteur
-Saad El Mabrouk
+
 📚 TP Big Data Spark SQL
 📅 Mai 2025
