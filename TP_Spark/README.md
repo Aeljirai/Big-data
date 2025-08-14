@@ -98,8 +98,5 @@ spark-submit --class Main --master spark://spark-master:7077 /app/TP_Spark-1.0-S
 
 ---
 
-## ✍️ Auteur
-
-**Saad El Mabrouk**  
 📚 TP Big Data Spark
 📅 Avril 2025
