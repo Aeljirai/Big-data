@@ -19,5 +19,5 @@ This repository contains practical assignments and mini-projects developed durin
 - Docker
 
 ---
-🧠 Author: Saad EL MABROUK
+🧠 Author: Alae Ddine El Jirari 
 📅 Year: 2024-2025
